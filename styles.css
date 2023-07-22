@@ -79,6 +79,11 @@ h1, h2, h3, h4, p {
                         margin: 40px auto 20px;
                     }
         
+                    #gif-img-daniel:hover{ 
+                        background-image:url(daniel.jpg); }
+        #daniel { 
+                   margin: 0px auto 40px;
+        }
 
 
 
