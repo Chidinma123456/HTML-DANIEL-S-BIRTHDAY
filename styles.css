@@ -11,8 +11,8 @@ h1, h2, h3, h4, p {
     
 #bff-img { 
     width: 200px;
-    border-radius: 50%;
-    border: 6px solid #EFB0C9; 
+    border-radius: 9%;
+    border: 5px solid #EFB0C9; 
 }
 
 #bday-age{
